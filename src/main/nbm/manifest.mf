@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+OpenIDE-Module-Localizing-Bundle: eu/herrn/netbeans/solarized/Bundle.properties
+OpenIDE-Module-Install: eu/herrn/netbeans/solarized/Installer.class
+COMMENTED-OUT-OpenIDE-Module-Localizing-Bundle: eu/herrn/netbeans/solarized/Bundle.properties
