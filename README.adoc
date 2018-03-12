@@ -7,6 +7,7 @@ Marco Herrn <marco@mherrn.de>
 :solarized-homepage: http://ethanschoonover.com/solarized
 :solarized-colorscheme-homepage: https://github.com/hupfdule/solarized-netbeans-colorscheme
 :download-page: https://github.com/hupfdule/solarized-laf-netbeans/releases
+:issue-page: https://github.com/hupfdule/solarized-laf-netbeans/issues
 :source-highlighter: prettify
 :version: 1.0.0-SNAPSHOT
 
@@ -16,8 +17,12 @@ Netbeans Look & Feel inspired by the
 This Look & Feel is intended to be used together with the
 {solarized-colorscheme-homepage}[Solarized Colorscheme for Netbeans].
 
-WARNING: This Look & Feel is still a work in progress and not in a usable
-state yet.
+WARNING: This Look & Feel is still a work in progress and may contain some
+glitches. Please file an {issue-page}[Issue] if find any.
+
+.Example screenshot of Netbeans running with Solarized Look & Feel
+[link=netbeans-solarized.png]
+image::netbeans-solarized.png[Screenshot Netbeans with Solarized Look & Feel]
 
 
 Installation
